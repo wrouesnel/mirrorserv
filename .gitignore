@@ -1,0 +1,13 @@
+.idea
+.vscode
+node_modules
+/mirrorserv
+/bin
+/.bin
+/.coverage
+/release
+/.cover.out
+/test-configs
+/.junit
+
+
